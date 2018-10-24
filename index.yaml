@@ -3,11 +3,11 @@ entries:
   mychart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2018-10-24T17:00:52.329711339+05:30
+    created: 2018-10-24T18:07:55.139550093+05:30
     description: A Helm chart for Kubernetes
     digest: d0751065dd9d59e493fbddb15f577f4c7d29238f25fc25f9f4d150ec6687abb1
     name: mychart
     urls:
-    - https://github.com/MrBhatt/helm-charts/mychart-0.1.0.tgz
+    - https://mrbhatt.github.io/helm-charts/mychart-0.1.0.tgz
     version: 0.1.0
-generated: 2018-10-24T17:00:52.328298154+05:30
+generated: 2018-10-24T18:07:55.138745035+05:30
